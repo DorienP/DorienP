@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning Haskell
-- 👯 I’m looking to collaborate on Decentalized Apps on Cardano 
-- 🤔 I’m looking for help with Humanity
+- 👯 I’m looking to collaborate on Decentalized Apps
+- 🤔 I’m looking for help with 
 - 💬 Ask me about BlockChain & Crypto
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
