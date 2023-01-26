@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div> </br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DorienP&theme=dark&background=000000)](https://git.io/streak-stats) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorienP&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
